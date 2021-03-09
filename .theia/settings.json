@@ -1,0 +1,6 @@
+{
+    "editor.autoSave": "off",
+    "boot-java.scan-java-test-sources.on": true,
+    "boot-java.support-spring-xml-config.on": true,
+    "boot-java.validation.spel.on": true
+}
