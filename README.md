@@ -1,6 +1,6 @@
 # Spike_genomic-structural_study
 
-This folder contains data files from the genomic analysis, structural models and MD simulation trajectories. The manuscript related to this file is titled "Coaxial framework of spike protein mutational ensemble in SARS-CoV-2 genomes" by Saman Fatihi, Surabhi Rathore, Ankit Pathak, Deepanshi Gahlot, Mitali Mukerji, Nidhi Jatana, Lipi Thukral.
+This folder contains data files from the genomic analysis, structural models and MD simulation trajectories. The manuscript related to this file is titled "A rigorous framework for detecting SARS-CoV-2 spike protein mutational ensemble from genomic and structural features" by Saman Fatihi, Surabhi Rathore, Ankit Pathak, Deepanshi Gahlot, Mitali Mukerji, Nidhi Jatana, Lipi Thukral.
 
 The files for genomic analysis are organised below
 A. Genomic Analysis data 
